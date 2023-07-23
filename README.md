@@ -34,7 +34,7 @@ The "Dogs vs. Cats" dataset is used for various purposes, including benchmarking
 The dataset usually contains a diverse set of images, including dogs and cats in various poses, backgrounds, and lighting conditions. Some images may also include multiple animals or other objects, making the classification task more challenging.
 We will lower our amount of dimensions with PCA (while maintaining the maximum classification capabilities of the models) to help the models run faster.
 
-## 4. 
+## 4. Kid's Drawings
 We were given data from children's drawings in which they try to draw a shape that is presented to them. We will try to create algorithms that predict several questions:
 
 - Number of lines
